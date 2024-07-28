@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 👋 Hi, I’m [@gurpreetsaini3](https://github.com/gurpreetsaini3) (Gurpreet Saini)
-### 🌱 CODE (Combination of Art and Skill)...
+### 🌱 CODE is an Art...
 
 </div>
 
