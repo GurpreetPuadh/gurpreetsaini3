@@ -1,6 +1,6 @@
 <div align="center">
 
-### 👋 Hi, I’m [@gurpreetsaini3](https://github.com/gurpreetsaini3) (Gurpreet Saini)
+### 👋 Hi, I’m Gurpreet Saini
 ### 🌱 CODE is an Art...
 
 </div>
